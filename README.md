@@ -1,6 +1,6 @@
-# vue-crash-2024
+# vue-crash-2025
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a exploratory codes.
 
 ## Recommended IDE Setup
 
